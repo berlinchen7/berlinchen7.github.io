@@ -1,0 +1,36 @@
+.titleSection {
+	display: flex; flex-wrap: wrap;
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+	.myPicture {
+		width: 300px;
+		height: 360px;
+		padding:1px;
+	   	border:1px solid #021a40;
+	}
+
+	.summary{
+		margin-top: 100px;
+	    margin-bottom: 100px;
+	    margin-right: 150px;
+	    margin-left: 80px;
+		inline-size: 500px;
+  		overflow-wrap: break-word;
+	}
+
+		.myName {
+			/*color: green;*/
+			font-weight: bold;
+			font-size: 200% 
+		}
+
+.websiteContent{
+	margin-top: 70px;
+    margin-bottom: 70px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
